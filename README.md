@@ -1,10 +1,10 @@
 # DeepArt fun
-Last weekend I finally took some of personal photos and artwork to ‘vangoghify’ i.e. “paint” them in, but not limited to, Van Gogh style. The “painting” part was actually an elegant extension from *Deep learning* research [1,2]. In short, the Deep learning model – a deep neural network – took your photo (referred as content-image) and a reference style (style-images) as the inputs and produce your photo in that style. I used a popular implementation, whose code is publicly provided [3]. 
+Last weekend I finally took some of personal photos and artwork to ‘vangoghify’ i.e. “paint” them in, but not limited to, Van Gogh style. The “painting” part was actually an inspiring application from *Deep learning* research [1,2]. In short, the Deep learning model – a deep neural network – took your photo (referred as content-image henceforth) and a reference style (style-images) as the inputs and produce your photo in that style. I used a popular implementation, whose code is publicly provided [3]. 
 
 As for hardware setup, my main work-horse is a humble nVidia GTX 660 2GB on a dated LGA 775 desktop. I also used NIN instead of VGG net due to limited VRAM. Each image was generated in ~90 seconds (max. 512px-wide) or 2-3 mins (max. 784px-wide). It’s highly recommended to run on a GPU instead of a CPU, since even the most modern i7 K-series can take upto hours to generate 1 image. 
 
-<img src="style-imgs/starry_night.jpg" height="200"><img src="content-imgs/london.jpg" height="200">
-<img src="visually-appealing/london-starry.png" width="700">
+<img src="style-imgs/starry_night.jpg" height="200"> <img src="content-imgs/london.jpg" height="200">
+<img src="visually-appealing/london-starry.png" width="600">
 
 ## Observation
 * Size matters. The higher the output image resolution, the more details in the content-image can be explicitly expressed by the indicated style. However, the **big** trade-off is memory. Default output image size (512px) on an NIN took as small as 5-600MB, but a 784px image devours 3 times as much. 
