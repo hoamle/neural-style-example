@@ -54,6 +54,7 @@ Painting study + Picasso's Self-portrait
 * I lust over a Titan X.
 
 ## References
-1. A Neural Algorithm of Artistic Style https://github.com/jcjohnson/neural-style 
-2. Artomatix (NB: it should be known that this start-up has elevated a similar application on industrial-grade in 2014, one year before paper [1] was published)
+1. A Neural Algorithm of Artistic Style http://arxiv.org/abs/1508.06576
+2. Artomatix (NB: this start-up has elevated a similar application as a side project in 2014, one year before paper [1] was published)
 3. https://github.com/jcjohnson/neural-style
+* Artist credit where it's due
