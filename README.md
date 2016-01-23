@@ -10,7 +10,7 @@ Here we have the content-image is a photo of a walking path on the top-left, the
 
 The machine did not "paint" the picture out of the blue, it's an iterative learning process. It starts with a blank (noisy) canvas and tries to learn prominent features in both content-image and style-image(s) inputs to present them on the final product. That learning process is mathematically expressed as optimization process of a function representing the combined *similarity* between the output and the inputs. Optimizing i.e. minimizing such function requires algorithm which goes through series of iteration. That iterations are, arguably, the layers of (machine) perception. The follow gif is a visualization of that process.
 
-<img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/exeter-afremov2.gif" width="460">
+<img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/exeter_afremov2.gif" width="460">
 
 ## More images
 Pedals + Leonid Afremov's
