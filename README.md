@@ -3,24 +3,29 @@ Last weekend I finally took some of personal photos and artwork to ‘vangoghify
 
 As for hardware setup, the main work-horse is a humble nVidia GTX 660 2GB on a dated LGA 775 desktop. GPU(s) with generous memory is desirable. I also used NIN instead of VGG net due to limited VRAM. Each image was generated in ~90 seconds (max. 512px-wide) or 2-3 mins (max. 784px-wide). It’s highly recommended to run on a GPU instead of a CPU, since even the most modern i7 K-series can take upto hours to train and generate 1 image. 
 
+## Sample images
 Painting study + [creativemints.at.behance](https://www.behance.net/creativemints)'s
 <br/>
 <img src="content-imgs/potr.jpg" height="150"> <img src="style-imgs/lostquilt_at_pinterest.jpg" height="150">
-<img src="visually-appealing/potr-lostquilt.png" width="500">
+<img src="visually-appealing/potr-lostquilt.png" width="400">
 
 Walkpath + Leonid Afremov's
+<br/>
 <img src="content-imgs/exeter.jpg" height="150"> <img src="style-imgs/Afremov2.jpg" height="150">
-<img src="visually-appealing/exeter-afremov2.png" width="500">
+<img src="visually-appealing/exeter-afremov2.png" width="540">
 
 Pedals + Leonid Afremov's
-<img src="content-imgs/pedals.jpg" height="150"> <img src="style-imgs/Afremov2.jpg" height="150">
-<img src="visually-appealing/pedals-afremov4.png" width="500">
+<br/>
+<img src="content-imgs/pedals.jpg" height="150"> <img src="style-imgs/Afremov4.jpg" height="150">
+<img src="visually-appealing/pedals-afremov4.png" width="455">
 
-Near the quay + Van Gogh's Starry Night
+Near the quay + Van Gogh's
+<br/> Starry Night
 <img src="content-imgs/exe_quay.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150">
 <img src="visually-appealing/exe_quay-starrynight.png" width="500">
 
-London + Van Gogh's Starry Night
+London + Van Gogh's
+<br/> Starry Night
 <img src="content-imgs/london.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150"> 
 <img src="visually-appealing/london-starry.png" width="500">
 
