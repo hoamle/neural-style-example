@@ -5,7 +5,7 @@ Technical bit, the main work-horse is a humble nVidia GTX 660 2GB on a dated LGA
 
 It's *much* faster to run on a GPU instead of CPU. Even a modern i7 K-series can take upto hour to train and generate 1 image of above sizes. However, running on CPU can take advantages of *abundant* host memory (easily >8GB on a single machine), not to mention the possibility to be accompanied with a coprocessor (eg: Xeon Phi), or running on distributed platform.
 
-## Sample images
+## Sample images 
 Walkpath + Leonid Afremov's
 <br/>
 <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/exeter.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/Afremov2.jpg" height="150">
