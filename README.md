@@ -44,7 +44,7 @@ Painting study + [creativemints.at.behance](https://www.behance.net/creativemint
 
 Painting study + Picasso's Self-portrait
 <br/>
-<img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/figure.png" height="300"> <img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/picasso_selfport1907.jpg" height="300"> => 
+<img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/figure.jpg" height="300"> <img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/picasso_selfport1907.jpg" height="300"> => 
 <img src="https://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/figure-picasso_selfportr.png" height="400">
 
 
