@@ -8,44 +8,44 @@ It's *much* faster to run on a GPU instead of CPU. Even a modern i7 K-series can
 ## Sample images
 Walkpath + Leonid Afremov's
 <br/>
-<img src="content-imgs/exeter.jpg" height="150"> <img src="style-imgs/Afremov2.jpg" height="150">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/exeter.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/Afremov2.jpg" height="150">
 <br/>
-<img src="visually-appealing/exeter-afremov2.png" width="460">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/exeter-afremov2.png" width="460">
 
 Pedals + Leonid Afremov's
 <br/>
-<img src="content-imgs/pedals.jpg" height="150"> <img src="style-imgs/Afremov4.jpg" height="150">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/pedals.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/Afremov4.jpg" height="150">
 <br/>
-<img src="visually-appealing/pedals-afremov4.png" width="460">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/pedals-afremov4.png" width="460">
 
 Near the quay + Van Gogh's Starry Night 
 <br/>
-<img src="content-imgs/exe_quay.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/exe_quay.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/starry_night.jpg" height="150">
 <br/>
-<img src="visually-appealing/exe_quay-starrynight.png" width="495">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/exe_quay-starrynight.png" width="495">
 
 London + Van Gogh's Starry Night
 <br/> 
-<img src="content-imgs/london.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150"> 
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/london.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/starry_night.jpg" height="150"> 
 <br/>
-<img src="visually-appealing/london-starry.png" width="495">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/london-starry.png" width="495">
 
 Field + Van Gogh's Wheat Field with Crowns
 <br/> 
-<img src="content-imgs/camb.jpg" height="150"> <img src="style-imgs/vangogh_Wheat_Field_with_Crows.jpg" height="150"> 
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/camb.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/vangogh_Wheat_Field_with_Crows.jpg" height="150"> 
 <br/>
-<img src="visually-appealing/camb-vangogh_wheatfield.png" width="575">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/camb-vangogh_wheatfield.png" width="575">
 
 Painting study + [creativemints.at.behance](https://www.behance.net/creativemints)'s
 <br/>
-<img src="content-imgs/potr.jpg" height="150"> <img src="style-imgs/lostquilt_at_pinterest.jpg" height="150">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/potr.jpg" height="150"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/lostquilt_at_pinterest.jpg" height="150">
 <br/>
-<img src="visually-appealing/potr-lostquilt.png" width="410">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/potr-lostquilt.png" width="410">
 
 Painting study + Picasso's Self-portrait
 <br/>
-<img src="content-imgs/figure.png" height="300"> <img src="style-imgs/picasso_selfport1907.jpg" height="300"> => 
-<img src="visually-appealing/figure-picasso_selfportr.png" height="400">
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/content-imgs/figure.png" height="300"> <img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/style-imgs/picasso_selfport1907.jpg" height="300"> => 
+<img src="http://raw.githubusercontent.com/hoamle/neural-style-example/master/visually-appealing/figure-picasso_selfportr.png" height="400">
 
 
 ## Observation
