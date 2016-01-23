@@ -1,5 +1,5 @@
 # Deep Art fun
-Last weekend I finally took some of personal photos and artwork to *“paint”* them in, but not limited to, Van Gogh style. The “painting” part was actually an inspiring application from **Deep learning** research [1,2]. In short, the Deep learning model – a deep neural network – took your photo (referred as content-image henceforth) and a reference style (combination of 1 or more style-images) as the inputs and produce your photo in that style. A popular implementation [3] of [1] is publicly provided. 
+Last weekend I finally took some of personal photos and artwork to *“paint”* them in, but not limited to, Van Gogh style. The “painting” part was actually an inspiring application from **Deep learning** research [1,2]. In short, the Deep learning model – a deep neural network – took your photo (referred as content-image henceforth) and a reference style (combination of 1 or more style-images) as the inputs and produce your photo in that style. A popular implementation of [1] is publicly provided [3]. 
 
 Technical bit, the main work-horse is a humble nVidia GTX 660 2GB on a dated LGA 775 desktop. GPU(s) with generous memory is desirable. I also used NIN instead of VGG net due to limited VRAM. Each image was generated in ~90 seconds (max. 512px-wide) or 2-3 mins (max. 784px-wide). 
 
@@ -45,11 +45,11 @@ Painting study + [creativemints.at.behance](https://www.behance.net/creativemint
 Painting study + Picasso's Self-portrait
 <br/>
 <img src="content-imgs/figure.png" height="300"> <img src="style-imgs/picasso_selfport1907.jpg" height="300"> => 
-<img src="visually-appealing/figure-picasso_selfportr.png" height="350">
+<img src="visually-appealing/figure-picasso_selfportr.png" height="400">
 
 
 ## Observation
-* Size matters. The higher the output image resolution, the more details in the content-image can be explicitly expressed by the indicated style. However, memory is *big* trade-off. Default output image size (512px) on an NIN took as small as 5-600MB, but a 784px image devours 3 times as much. 
+* **Size matters**. The higher the output image resolution, the more details in the content-image can be explicitly expressed by the indicated style. However, memory is *big* trade-off. Default output image size (512px) on an NIN took as small as 5-600MB, but a 784px image devours 3 times as much! 
 * For visual appeal, (i) an **expressive** style and/or (ii) **resemblance** between content-style image pair is the key. “Expressive” here is not only about abstract or surreal in specific, but about texture i.e. discernible patterns in colors, strokes, blobs in general. Example work: *Leonid Afremov’s painting, The Scream, Monet’s water lilies, …* Eventually, using style-images referenced from complicated realism pieces by the old masters, like Jean Leon Gerome, usually  yields unsatisfiying output with default parameters. Secondly, although it’s not always the case, but a landscape picture pairs pretty well with Starry Night or Wheat Field and the Crown; a portrait and Picasso’s self-portrait also makes a nice combination. 
 * I lust over a Titan X.
 
