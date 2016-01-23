@@ -3,13 +3,18 @@ Last weekend I finally took some of personal photos and artwork to ‘vangoghify
 
 As for hardware setup, the main work-horse is a humble nVidia GTX 660 2GB on a dated LGA 775 desktop. GPU(s) with generous memory is desirable. I also used NIN instead of VGG net due to limited VRAM. Each image was generated in ~90 seconds (max. 512px-wide) or 2-3 mins (max. 784px-wide). It’s highly recommended to run on a GPU instead of a CPU, since even the most modern i7 K-series can take upto hours to train and generate 1 image. 
 
+Painting study + [creativemints.at.behance](https://www.behance.net/creativemints)'s
+<br/>
+<img src="content-imgs/potr.jpg" height="150"> <img src="style-imgs/lostquilt_at_pinterest.jpg" height="150">
+<img src="visually-appealing/potr-lostquilt.png" width="500">
+
 Walkpath + Leonid Afremov's
 <img src="content-imgs/exeter.jpg" height="150"> <img src="style-imgs/Afremov2.jpg" height="150">
 <img src="visually-appealing/exeter-afremov2.png" width="500">
 
 Pedals + Leonid Afremov's
 <img src="content-imgs/pedals.jpg" height="150"> <img src="style-imgs/Afremov2.jpg" height="150">
-<img src="visually-appealing/afremov4.png" width="500">
+<img src="visually-appealing/pedals-afremov4.png" width="500">
 
 Near the quay + Van Gogh's Starry Night
 <img src="content-imgs/exe_quay.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150">
@@ -28,4 +33,3 @@ London + Van Gogh's Starry Night
 1. A Neural Algorithm of Artistic Style https://github.com/jcjohnson/neural-style 
 2. Artomatix (NB: it should be known that this start-up has elevated a similar application on industrial-grade in 2014, one year before paper [1] was published)
 3. https://github.com/jcjohnson/neural-style
-
