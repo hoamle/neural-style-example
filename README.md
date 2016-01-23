@@ -4,8 +4,7 @@ Last weekend I finally took some of personal photos and artwork to ‘vangoghify
 As for hardware setup, my main work-horse is a humble nVidia GTX 660 2GB on a dated LGA 775 desktop. I also used NIN instead of VGG net due to limited VRAM. Each image was generated in ~90 seconds (max. 512px-wide) or 2-3 mins (max. 784px-wide). It’s highly recommended to run on a GPU instead of a CPU, since even the most modern i7 K-series can take upto hours to generate 1 image. 
 
 <img src="content-imgs/exe_quay.jpg" height="200"> <img src="style-imgs/starry_night.jpg" height="200">
-<img src="visually-appealing/exe_quay-starrynight.png
-" width="655">
+<img src="visually-appealing/exe_quay-starrynight.png" width="655">
 
 <img src="content-imgs/london.jpg" height="200"> <img src="style-imgs/starry_night.jpg" height="200"> 
 <img src="visually-appealing/london-starry.png" width="655">
