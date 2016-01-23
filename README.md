@@ -20,20 +20,30 @@ Near the quay + Van Gogh's Starry Night
 <br/>
 <img src="content-imgs/exe_quay.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150">
 <br/>
-<img src="visually-appealing/exe_quay-starrynight.png" width="500">
+<img src="visually-appealing/exe_quay-starrynight.png" width="490">
 
 London + Van Gogh's Starry Night
 <br/> 
 <img src="content-imgs/london.jpg" height="150"> <img src="style-imgs/starry_night.jpg" height="150"> 
 <br/>
-<img src="visually-appealing/london-starry.png" width="500">
+<img src="visually-appealing/london-starry.png" width="490">
+
+Field + Van Gogh's The Wheat Field
+<br/> 
+<img src="content-imgs/camb.jpg" height="150"> <img src="style-imgs/vangogh_Wheat_Field_with_Crows.jpg" height="150"> 
+<br/>
+<img src="visually-appealing/camb-vangogh_wheatfield.png" width="560">
 
 Painting study + [creativemints.at.behance](https://www.behance.net/creativemints)'s
 <br/>
 <img src="content-imgs/potr.jpg" height="150"> <img src="style-imgs/lostquilt_at_pinterest.jpg" height="150">
 <br/>
-<img src="visually-appealing/potr-lostquilt.png" width="400">
+<img src="visually-appealing/potr-lostquilt.png" width="410">
 
+Painting study + Picasso's Self-portrait
+<br/>
+<img src="content-imgs/figure.png" height="300"> <img src="style-imgs/picasso_selfport1907.jpg" height="300"> => 
+<img src="visually-appealing/figure-picasso_selfportr.png" width="300">
 
 
 ## Observation
